@@ -38,7 +38,7 @@ table > thead > tr > td {
 }
 
 .jumbotron {
-    background-color: #343a40;
+    background-color: #303030;
     color: #FFF;
     border-radius: 0;
     text-align: center;
@@ -150,3 +150,8 @@ select.form-control {
     -moz-border-radius: 0 !important;
     border-radius: 0 !important;
 }
+
+.navbar {
+    background-color: #005b99 !important;
+}
+
